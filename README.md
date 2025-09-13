@@ -54,5 +54,6 @@ Q3_Initiative_Hackathon/
 ├── Presentation.pdf                           # Project video slides in pdf format 
 ├── Presentation.pptx                          # Project video slides in powerpoint format
 ├── LICENSE                                    # License for use and distribution
+├── requirements.txt                           # Includes packages to download
 
 ```
