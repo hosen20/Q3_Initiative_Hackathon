@@ -40,3 +40,19 @@ source venv/bin/activate
 Install the required dependencies listed in the ['requirements.txt'] file:
 ```
 pip install -r requirements.txt
+```
+
+- ## Usage of the Project
+
+Q3_Initiative_Hackathon/
+```bash
+│
+├── 1.SSVQE_H2.ipynb                           # jupyter notebook solution of H2 using SSVQE
+├── 2.QSE_H2.ipynb                             # jupyter notebook solution of H2 using QSE
+├── 3.QSE_N2H2.ipynb                           # jupyter notebook solution of N2H2 using QSE
+├── README.md                                  # Project overview and documentation
+├── Presentation.pdf                           # Project video slides in pdf format 
+├── Presentation.pptx                          # Project video slides in powerpoint format
+├── LICENSE                                    # License for use and distribution
+
+```
