@@ -42,7 +42,7 @@ Install the required dependencies listed in the ['requirements.txt'] file:
 pip install -r requirements.txt
 ```
 
-- ## Usage of the Project
+## Usage of the Project
 
 Q3_Initiative_Hackathon/
 ```bash
