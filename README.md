@@ -57,3 +57,9 @@ Q3_Initiative_Hackathon/
 ├── requirements.txt                           # Includes packages to download
 
 ```
+
+## Link to video and powerpoint slides
+
+Video: https://drive.google.com/file/d/1Q2-5fnPosRMDwzWJg4NfMspQRHDzXEAW/view?usp=sharing
+
+Slides: https://drive.google.com/file/d/1ow7MCsMhZXLnBHd14nMdvJjCqSQjj8su/view?usp=sharing
